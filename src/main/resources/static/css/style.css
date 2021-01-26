@@ -1,0 +1,85 @@
+.root-style {
+    min-height: 100vh;
+    height: 1px
+}
+
+.header {
+    height: 50px;
+    border-top: 1px solid rgba(0, 0, 0, .2);
+    background: #1087E2
+}
+
+.STIX-Two-Text {
+    font-family: STIX Two Text
+}
+
+.btn-add-film {
+    background: #05c9fd;
+    border: 1px solid #006b85;
+}
+
+.style-body {
+    height: 100%;
+}
+
+.style-left-part {
+    height: 100%;
+    border-right: 1px solid rgba(0, 0, 0, .2);
+    background: #d8f2f5;
+}
+
+.style-right-part {
+    height: 100%;
+    background: #a4e8ee
+}
+
+.style-bottom {
+    height: 40px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    background: #40aefc
+}
+
+.style-bottom-text {
+    font-family: Kurale-Regular;
+    font-size: 30px;
+    color: #fafafa
+}
+
+.style-size {
+    /*border: 1px solid rgba(0, 0, 0, .2);*/
+    height: 200px;
+    width: 150px;
+    min-width: 150px;
+}
+
+.style-image {
+    border: 1px solid rgba(0, 0, 0, .2);
+    height: 170px;
+    width: 150px;
+}
+
+.list-group-item {
+    background: #a4e8ee;
+    padding: 0;
+    border-right: 0;
+    border-left: 0;
+    border-top: 0;
+}
+
+.btn-genre {
+    /*border: 1px solid rgba(0, 0, 0, .2);*/
+    padding: 2px;
+}
+
+.btn-del-genre {
+    border: 1px solid rgba(0, 0, 0, .2);
+    background: #e59090;
+}
+.btn-def-genre{
+    border: 1px solid rgba(0, 0, 0, .2);
+    background: #f6f6f6;
+}
+.btn-add-genre {
+    background: #d8f2f5;
+    border: 1px solid rgba(0, 0, 0, .2);
+}
